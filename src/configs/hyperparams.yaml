@@ -1,0 +1,6 @@
+env: MineRLNavigateDense-v0
+learning_rate: 0.0003
+gamma: 0.99
+clip_range: 0.2
+update_epochs: 4
+batch_size: 64
